@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "title": "Product Title",
+        "description": "Product Description",
+        "price": 9.99,
+        "thumbnail": "https://example.com/image.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Product Title",
+        "description": "Product Description",
+        "price": 9.99,
+        "thumbnail": "https://example.com/image.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Product Title",
+        "description": "Product Description",
+        "price": 9.99,
+        "thumbnail": "https://example.com/image.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Product Title",
+        "description": "Product Description",
+        "price": 9.99,
+        "thumbnail": "https://example.com/image.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Product Title",
+        "description": "Product Description",
+        "price": 9.99,
+        "thumbnail": "https://example.com/image.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Product Title",
+        "description": "Product Description",
+        "price": 9.99,
+        "thumbnail": "https://example.com/image.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Product Title",
+        "description": "Product Description",
+        "price": 9.99,
+        "thumbnail": "https://example.com/image.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Product Title",
+        "description": "Product Description",
+        "price": 9.99,
+        "thumbnail": "https://example.com/image.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Product Title",
+        "description": "Product Description",
+        "price": 9.99,
+        "thumbnail": "https://example.com/image.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Product Title",
+        "description": "Product Description",
+        "price": 9.99,
+        "thumbnail": "https://example.com/image.jpg"
+    }
+
+]
